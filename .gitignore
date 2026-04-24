@@ -1,0 +1,5 @@
+logs/
+config.yaml
+config-*.yaml
+vpc-flow-logs-analyzer
+*.pprof

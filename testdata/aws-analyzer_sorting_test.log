@@ -1,0 +1,4 @@
+version account-id interface-id srcaddr dstaddr srcport dstport protocol packets bytes start end action log-status pkt-srcaddr pkt-dstaddr pkt-src-aws-service pkt-dst-aws-service
+5 123456789012 eni-0d6bdc1a4942cb767 10.1.1.1 10.1.1.2 12345 443 6 10 5000 1754321693 1754321724 ACCEPT OK 10.1.1.1 1.2.3.4 - -
+5 123456789012 eni-0d6bdc1a4942cb767 10.1.1.1 10.1.1.2 12346 443 6 20 10000 1754321693 1754321724 ACCEPT OK 10.1.1.1 5.6.7.8 - -
+5 123456789012 eni-0d6bdc1a4942cb767 10.1.1.1 10.1.1.2 12347 443 6 5 2000 1754321693 1754321724 ACCEPT OK 10.1.1.1 9.10.11.12 - -
