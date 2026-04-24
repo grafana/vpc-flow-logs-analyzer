@@ -7,7 +7,7 @@ require (
 	github.com/grafana/dskit v0.0.0-20250804145444-6ac601c94195
 	github.com/prometheus/client_golang v1.23.2
 	github.com/prometheus/common v0.67.4
-	github.com/schollz/progressbar/v3 v3.18.0
+	github.com/schollz/progressbar/v3 v3.19.0
 	github.com/stretchr/testify v1.11.1
 	github.com/yl2chen/cidranger v1.0.2
 	gopkg.in/yaml.v3 v3.0.1
